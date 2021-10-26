@@ -4,7 +4,6 @@
 - 🔭 Hoje Trabalho com Sistema ERP, PROTHEUS.
 - 🌱 Atualmente estou estudando Front-end (HTML, CSS, JavaScript e Angular)
 - 👯 Entre em contato via e-mail : Matheusproencaescola@hotmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fato divertido: Amo escutar musica enquanto estou fazendo algo.
 
 <div align="center">
